@@ -3,7 +3,8 @@
 > [!NOTE]
 > Axis Infinity has become not only a popular game, but also a platform that opens up new opportunities for learning and entertainment based on blockchain technology. Through a combination of game mechanics, cryptocurrency and digital assets, Axie Infinity attracts many players from all over the world, offering them a unique gaming and financial experience
 
-![image](https://github.com/Kolhsj21/Axie-Farm-Bot/assets/166749471/0364b41b-e796-401d-89ad-9c8f9fa467e1)
+![image](https://github.com/Kolhsj21/Axie-Farm-Bot/assets/166749471/24628cae-9243-42ba-bf68-a24b7a3f00a7)
+
 
 
 
