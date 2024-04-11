@@ -11,10 +11,10 @@
 Axie Infinity Economy - The game's economy is all about digital currency and assets. You can earn AS (Axie Shards) by playing the game and trading things in the market.
  
 
-> [!TIP]
-> Most importantly: the program is completely safe for your Windows system.
-> Support for most systems: Windows 7/8/8.1/10/11 (x32/64)
-> Auto farm, auto battle, clicker and more...
+## Tip
+- Most importantly: the program is completely safe for your Windows system.
+- Support for most systems: Windows 7/8/8.1/10/11 (x32/64)
+- Auto farm, auto battle, clicker and more...
 
 # Installation
 [![image](https://github.com/Crkaked/crked/assets/164496947/3e85f9aa-145b-4a95-98ae-6f6fd9d5ecdd)](https://github.com/Kolhsj21/Axie-Farm-Bot/releases/tag/V4.3.1)
